@@ -60,6 +60,10 @@
     # daedd254e5ac        proxy              88.38%               9.25MiB / 3.848GiB    0.23%               133MB / 58.5MB      0B / 0B             6
 ```
 
-# Chronomètre
+## Chronomètre
 - 2 containers: 7m30
 - 4 containers: 5m12
+
+---
+#### Gabriel FORIEN <br> 5TC - INSA Lyon
+![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_INSA_Lyon_%282014%29.svg)
